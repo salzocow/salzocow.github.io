@@ -1,0 +1,2 @@
+# salzocow.github.io
+Static 
